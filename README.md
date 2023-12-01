@@ -1,4 +1,4 @@
-# Feature Selection MHR
+# Feature Selection  - MHR
 ## Project description
 
 Context: Our project addresses the challenge of precise maternal risk prediction using data from Internet of Medical Things (IoMT) devices in the field of maternal health. The integration of these devices into healthcare settings has generated significant data, prompting the need to identify an optimal subset of IoMT devices for accurate risk prediction. This initiative aligns with the larger goal of improving healthcare technology for enhanced maternal health monitoring.
